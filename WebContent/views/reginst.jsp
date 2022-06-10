@@ -229,13 +229,13 @@
   </tr>
 </table>
 
-<p><input type="submit" value="登録"></p>
-<p><input type="reset"  value="リセット"></p>
+<p><input type="submit" class="push" value="登録"></p>
+<p><input type="reset" class="push"  value="リセット"></p>
 
 </form>
 
 <form action="menu.jsp" method ="post">
-<p><input type="submit" value="戻る"></p>
+<p><input type="submit" class="push" value="戻る"></p>
 </form>
 
 

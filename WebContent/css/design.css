@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+section{
+	text-align : center;
+}
+
 .header{
-	font-size:150%;
+	font-size : 150%;
 }
